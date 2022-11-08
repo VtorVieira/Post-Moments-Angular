@@ -2,6 +2,8 @@
 
 Page was created by following this youtube channel https://www.youtube.com/c/MatheusBattisti
 
+To be able to add comments and post photos, you need to clone this https://github.com/matheusbattisti/curso_adonis_api_yt and run `node ace serve` for api server.
+
 # Moments
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
